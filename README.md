@@ -9,16 +9,29 @@ I started to use My Game Collection app which has been adequate for the most par
 What I'm trying to accomplish.
 ------
 • Add Game form (from any page)
- -- Platform
+
+-- Platform
+
 -- Sub-platform
+
 -- Game title
+
 -- License type (Bought/Borrowed/Disk)
+
 -- Internet required? [Checkbox]
+
 -- Your rating 
+
 -- Label [Radio]
+
 • Search for game across all platforms, collection and wishlist.
+
 • Creating & sorting alphabetical, license type, and Labels, sub-platforms
+
 -- Custom Label name and color
+
 -- Toggle hide Label name [Checkbox(?)]
+
 • A page dedicated to each platform
+
 -- Toggle between your Collection and Wishlist.
