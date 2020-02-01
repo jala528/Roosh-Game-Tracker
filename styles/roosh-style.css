@@ -22,7 +22,7 @@ h4 {
 button:focus{
     outline: none;
 }
-#add {
+#btn-add {
   position: fixed;
   font-weight: bolder;
   height:69px;
@@ -36,26 +36,27 @@ button:focus{
   font-size: 30px;
   float: left;
 }
-#add:hover {
+#btn-add:hover {
   background: white;
   color: black;
-  border-color: white;
+  border-color: black;
+  border-width: 3px;
 }
-#xbox {
+#btn-xbox {
   background: url();
   position: fixed;
   top: 0;
   height: 69px;
   width: 69px;
   margin-left: 107px;
-  border: solid 1px #808080;
+  border: solid 0px;
   float: left;
 }
-#xbox:hover {
+#btn-xbox:hover {
    background: green;
    border: solid 0px;
  }
-#playstation {
+#btn-playstation {
   background: url();
   position: fixed;
   top: 0;
@@ -66,11 +67,11 @@ button:focus{
   border: solid 0px;
   float: left;
 }
-#playstation:hover {
+#btn-playstation:hover {
   background: #003399;
   border: 0px;
 }
-#nintendo {
+#btn-nintendo {
   background: url();
   position: fixed;
   top: 0;
@@ -81,11 +82,11 @@ button:focus{
   border: solid 0px;
   float: left;
 }
-#nintendo:hover {
+#btn-nintendo:hover {
   background: #b80404;
   border: 0px;
 }
-#pc {
+#btn-pc {
   background: url();
   position: fixed;
   top: 0;
@@ -96,6 +97,126 @@ button:focus{
   border: solid 0px;
   float: left;
 }
-#pc:hover {
+#btn-pc:hover {
   background: purple;
+}
+#btn-full {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 100px;
+  margin-top: 65px;
+  margin-left: 0px;
+  border: solid 1px #808080;
+  float: left;
+}
+#btn-full:hover {
+  background: black;
+  color: white;
+}
+#btn-wish {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 100px;
+  margin-top: 65px;
+  margin-left: 5px;
+  border: solid 1px #808080;
+  float: left;
+}
+#btn-wish:hover {
+  background: black;
+  color: white;
+}
+#btn-allcats {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 50px;
+  margin-top: 65px;
+  margin-right: 5px;
+  border: solid 1px #808080;
+  float: right;
+}
+#btn-allcats:hover {
+  background: black;
+  color: white;
+}
+#btn-bought {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 75px;
+  margin-top: 65px;
+  margin-right: 5px;
+  border: solid 1px #808080;
+  float: right;
+}
+#btn-bought:hover {
+  background: black;
+  color: white;
+}
+#btn-gifted {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 70px;
+  margin-top: 65px;
+  margin-right: 5px;
+  border: solid 1px #808080;
+  float: right;
+}
+#btn-gifted:hover {
+  background: black;
+  color: white;
+}
+#btn-f2p {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 45px;
+  margin-top: 65px;
+  margin-right: 5px;
+  border: solid 1px #808080;
+  float: right;
+}
+#btn-f2p:hover {
+  background: black;
+  color: white;
+}
+#btn-sub {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 100px;
+  margin-top: 65px;
+  margin-right: 5px;
+  border: solid 1px #808080;
+  float: right;
+}
+#btn-sub:hover {
+  background: black;
+  color: white;
+}
+#btn-borrowed {
+  font-size: 15px;
+  font-weight: bold;
+  background: white;
+  height: 40px;
+  width: 90px;
+  margin-top: 65px;
+  margin-right: 50px;
+  border: solid 1px #808080;
+  float: right;
+}
+#btn-borrowed:hover {
+  background: black;
+  color: white;
 }
