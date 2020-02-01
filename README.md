@@ -8,7 +8,7 @@ I started to use My Game Collection app which has been adequate for the most par
 
 What I'm trying to accomplish.
 ------
-• Add Game form (from any page)
+• Add Game form (from any page)[Modal]
 
 -- Platform
 
